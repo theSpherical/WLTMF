@@ -1,0 +1,25 @@
+;Config file format
+;
+;No soaces precedes a word on the line
+;
+Password=
+
+; StartupPath:
+StartupPath=/wad
+
+; cIOS: 249, 238, whatever
+:cIOSVersion=249
+
+; FatDevice: sd usb1 usb2 gcsda gcsdb
+:FatDevice=sd
+
+; NANDDevice: Disable SD USB
+; MF will prompt for the chosen NAND only if selected cIOS is cIOS=249
+;NANDDevice=Disable
+
+: Settings for SMB shares
+
+:SMBUser=
+:SMBPassword=
+:SMBShare=
+:SMBhostIP=
