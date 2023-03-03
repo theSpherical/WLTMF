@@ -1,2 +1,2 @@
 # WLTMF
-WLTMF (Wii Love To Manage Files) is a Wii homebrew application for managing Wii files from an SD card or a USB drive. WLTMF is not ready for downloading yet. We will change that status when it is complete.
+WLTMF (Wii Love To Manage Files) is an ~~active~~ failed Wii homebrew application for managing Wii files from an SD card or a USB drive. This work has failed, but is still here for anybody to continue WLTMF. Thank you.
